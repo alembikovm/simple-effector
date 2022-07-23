@@ -1,0 +1,1 @@
+This is simple reproduction of Effector.js library, that was created for educational purposes.

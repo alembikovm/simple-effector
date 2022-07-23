@@ -1,0 +1,11 @@
+{
+  "name": "simple-effector",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "run1": "node test/01_counter.js 2>/dev/null"
+  },
+  "author": "",
+  "license": "ISC"
+}
